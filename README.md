@@ -1,5 +1,5 @@
 # Duhacks
-Project for DUHACKS 2021
+Project for DUHACKS 2022
 Here is the project made by me and my team during the hackathon of DUHACKS
 this includes HTML,CSS, JAVASCRIPT, PHP AND MYSQL.
 Here we used PHP for backend purpose and for making connection with database which was made on XAMPP using PHPmyADMIN.
